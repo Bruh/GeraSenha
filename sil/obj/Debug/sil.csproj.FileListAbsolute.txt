@@ -1,0 +1,8 @@
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\sil\bin\Debug\sil.exe.config
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\sil\bin\Debug\sil.exe
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\sil\bin\Debug\sil.pdb
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\sil\obj\Debug\sil.Form1.resources
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\sil\obj\Debug\sil.Properties.Resources.resources
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\sil\obj\Debug\sil.csproj.GenerateResource.Cache
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\sil\obj\Debug\sil.exe
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\sil\obj\Debug\sil.pdb

@@ -1,0 +1,9 @@
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\serando senhas\bin\Debug\serando senhas.exe.config
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\serando senhas\bin\Debug\serando senhas.exe
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\serando senhas\bin\Debug\serando senhas.pdb
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\serando senhas\obj\Debug\serando senhas.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\serando senhas\obj\Debug\serando_senhas.Form1.resources
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\serando senhas\obj\Debug\serando_senhas.Properties.Resources.resources
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\serando senhas\obj\Debug\serando senhas.csproj.GenerateResource.Cache
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\serando senhas\obj\Debug\serando senhas.exe
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\serando senhas\serando senhas\obj\Debug\serando senhas.pdb
